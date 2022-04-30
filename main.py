@@ -20,7 +20,7 @@ class Words:
         self.string = ""
         with open("proof.txt", "r+") as play:
             for line in play.readlines():
-                if line.isnumeric():
+                if line.replace('\n', '').isnumeric():
                     continue
                 if "ACT " in line:
                     self.string += line
@@ -45,14 +45,14 @@ class Words:
     def letter_logic(self, main_name, other_names, word):
         if "Beat" in word:
             return "(b) "
-        if "(" in word:
-            self.sub_line_type = ENVIRO
-            return "(e) "
-        if ")" in word:
-            self.sub_line_type = NONE
-            return ''
-        if self.sub_line_type is ENVIRO:
-            return ''
+        # if "(" in word:
+        #     self.sub_line_type = ENVIRO
+        #     return ''  # "(e) "
+        # if ")" in word:
+        #     self.sub_line_type = NONE
+        #     return ''
+        # if self.sub_line_type is ENVIRO:
+        #     return ''
 
         for other_name in other_names:
             if other_name in word and other_name != main_name:
@@ -63,6 +63,8 @@ class Words:
             return f"\n {main_name}: "
 
         if self.line_type is MAIN:
+            if ')' in word:
+                return word[:1] + ') '
             return word[:1] + ' '
         if self.line_type is ALT:
             return word + ' '

@@ -13,14 +13,14 @@ CATHERINE. Your student is still here. He's up in your study.
 ROBERT. He can let himself out.
 CATHERINE. I might as well wait up till he's done.
 ROBERT. He's not my student anymore. He's teaching now.
-Bright kid. {Beat.}
+Bright kid. (Beat.)
 CATHERINE. What time is it?
 ROBERT. It's almost one.
 CATHERINE. Huh.
 ROBERT. After midnight ...
 CATHERINE. So?
 ROBERT. So: (He indicates something on the table behind him: a
-bottle of champagne.} Happy birthday.
+bottle of champagne.) Happy birthday.
 CATHERINE. Dad.
 5
 ROBERT. Do I ever forget?
@@ -36,7 +36,7 @@ CATHERINE. You're lucky you didn't lose an eye. (She opens the
 bottle.)
 ROBERT. Twenty-five!
 CATHERINE. I feel old.
-RO BERT. You're a kid.
+ROBERT. You're a kid.
 CATHERINE. Glasses?
 ROBERT. Goddamn it, I forgot the glasses. Do you want me to -
 CATHERINE. Nah. (She drinks from the bottle. A long pull
@@ -69,7 +69,7 @@ CATHERINE. No.
 ROBERT. Why not?
 CATHERINE. Because in order for your friend to take you out
 you generally have to have friends.
-ROBERT. (Dismissive.} Oh
+ROBERT. (Dismissive.) Oh
 CATHERINE. It's funny how that works.
 ROBERT. You have friends. What about that cute blonde, what
 was her name?
@@ -80,7 +80,7 @@ CATHERINE. Cindy Jacobsen?
 ROBERT. Cindy Jacobsen!
 CATHERINE. That was in third grade, Dad. Her family moved
 to Florida in 1983.
-ROBERT. What about Claire? , .
+ROBERT. What about Claire?
 CATHERINE She's not my friend, she's my sister. And shes in
 New York. And I don't like her.
 ROBERT. I thought she was coming in.
@@ -161,7 +161,7 @@ CATHERINE. I do?
 ROBERT. Yes.
 CATHERINE. By the time you were my age you were famous.
 ROBERT. By the time I was your age I'd already done my best
-work. (Beat.}
+work. (Beat.)
 CATHERINE. What about after?
 ROBERT. After what?
 CATHERINE. After you got sick.
@@ -232,7 +232,7 @@ ROBERT. You see? You've just gotta think these things through.
 Now come on, what do you say? Let's call it a night, you go up,
 get some sleep, and then in the morning you can -
 CATHERINE. Wait. No.
-RO BERT. What's the matter?
+ROBERT. What's the matter?
 CATHERINE. It doesn't work.
 ROBERT. Why nor?
 CATHERINE. le doesn't make sense.
@@ -248,15 +248,15 @@ ROBERT. Yeah, but it's ... oh. I see.
 CATHERINE. So?
 ROBERT. It's a point.
 CATHERINE. So how can you admit it?
-ROBERT. Well. Because I'm also dead. {Beat.) Aren't I?
+ROBERT. Well. Because I'm also dead. (Beat.) Aren't I?
 CATHERINE. You died a week ago.
 ROBERT. Heart failure. Quick. The funeral's tomorrow.
 CATHERINE. That's why Claire's flying in from New York.
 11
-RO BERT. Yes.
+ROBERT. Yes.
 CATHERINE. You're sitting here. You're giving me advice. You
 brought me champagne.
-ROBERT. Yes. (Beat.}
+ROBERT. Yes. (Beat.)
 CATHERINE. Which means ...
 ROBERT. For you?
 CATHERINE. Yes.
@@ -264,11 +264,11 @@ ROBERT. For you, Catherine, my daughter, who I love very
 much ... It could be a bad sign. (They sit together for a moment.
 Noise off. Hal enters, twenty-eight, semi-hip clothes. He carries a
 backpack and a jacket, folded He lets the door go and it bangs shut.
-Catherine sits up with a jolt.}
+Catherine sits up with a jolt.)
 CATHERINE. What?
 HAL. Oh, God, sorry - Did I wake you?
 CATHERINE. What?
-HAL. Were you asleep? (Beat. Robert is gone.}
+HAL. Were you asleep? (Beat. Robert is gone.)
 CATHERINE. You scared me, for Chrissake. What are you doing?
 HAL. I'm sorry. I didn't realize it had gotten so late. I'm done for
 the night.
@@ -366,7 +366,7 @@ HAL. Yeah, I have a full teaching load this quarter plus my own
 work.
 CATHERINE. Plus band practice.
 HAL. I don't have time to do this but I'm going to. If you'll let
-me. (Beat.} I loved your dad.
+me. (Beat.) I loved your dad.
 I don't believe a mind like his can just shut down. He had lucid
 14
 moments. He had a lucid year, a whole year four years ago.
@@ -490,7 +490,7 @@ HAL. (Patient.) Cathy ...
 CATHERINE. WHAT?
 HAL. I know your dad taught you some basic stuff, bur come on.
 CATHERINE. You don't think I could do it.
-HAL I'm sorry: I know that you couldn't. (Beat. Catherine angrily
+HAL I'm sorry: I know that you couldn't. (Beat.) (Catherine angrily
 snatches his backpack.) Hey! Oh come on. Give me a break. (She
 opens the backpack and rifles through it.) This isn't an airport.
 (Catherine removes items one by one. A water bottle. Some workout
@@ -530,7 +530,7 @@ HAL. Listen to me for a minute. .
 CATHERINE. (Waving the book.) You stole this!
 HAL Let me explain!
 CATHERINE. You stole it from ME, you stole It from my
-FATHER - (Hal snatches the book.}
+FATHER - (Hal snatches the book.)
 HAL. I want to show you something, will you calm down?
 CATHERINE. Give it back.
 HAL. Just wait a minute.
@@ -550,7 +550,7 @@ CATHERINE. (On phone.) Yes, I'm at 5724 South - . ,
 HAL It's about you. See? YOU. It was written about you. Here’s
 your name: CATHY. See? . .
 CATHERINE. South ... (She pauses. She seems to be listening.)
-HAL {Reads.) "A good day. Some very good news from
+HAL (Reads.) "A good day. Some very good news from
 Catherine." .
 I didn't know what that referred co, but I thought you [might]•••
 CATHERINE. When did he write this?
@@ -603,7 +603,7 @@ CLAIRE. Have a little milk. (She pours.) Want a banana? It's a
 good thing I brought food: There was nothing in the house.
 CATHERJNE. I've been meaning to go shopping.
 CLAIRE. Have a bagel.
-CATHERINE. No. I hate breakfast. {Beat.)
+CATHERINE. No. I hate breakfast. (Beat.)
 CLAIRE. You didn't put on the dress.
 CATHERJNE. Didn't really feel like it.
 CLAIRE. Don't you want to try it on? See if it fits?
@@ -705,7 +705,7 @@ How do you feel?
 CATHERINE. Physically? Great. Except my hair seems kind of
 unhealthy, I wish there were something I could do about that.
 CLAIRE. Come on, Catherine.
-CATHERINE. What is the point of all these questions? (Beat.}
+CATHERINE. What is the point of all these questions? (Beat.)
 CLAIRE. Katie, some policemen came by while you were in the
 shower.
 CATHERINE. Yeah?
@@ -765,7 +765,7 @@ CLAIRE. "Harold Dobbs" didn't tell you the name of his rock
 band?
 CATHERINE. No. I don't know. Look in the paper. They were
 playing last night. They do a song called "Imaginary Number"
-that doesn't exist. (Beat.}
+that doesn't exist. (Beat.)
 CLAIRE. I'm sorry, I'm just trying to understand: Is "Harold
 Dobbs"-
 CATHERINE. Stop saying "Harold Dobbs."
@@ -821,7 +821,7 @@ me, laughing: They were assholes. .
 CLAIRE. These guys seemed perfectly nice. They were off-duty
 and they took the trouble to come back her~ at the end of their
 shift co check up on you. They were very polite.
-CATHERINE. Well people are nicer to you. {Beat.)
+CATHERINE. Well people are nicer to you. (Beat.)
 CLAIRE. Katie. Would you like co come to New York?
 CATHERINE. Yes, I told you, I'll come in January.
 CLAIRE. You could come sooner. We'd love to have you. You
@@ -1090,7 +1090,7 @@ CATHERINE. No. She's flying home in a couple hours. I should
 probably wake her.
 HAL. Let her sleep. She was doing some pretty serious drinking
 with the theoretical physicists last night.
-CATHERINE. I'll make her some coffee when she gets up. {Beat.}
+CATHERINE. I'll make her some coffee when she gets up. (Beat.)
 HAL. Sunday mornings I usually go out. Get the paper, have
 some breakfast.
 CATHERINE. Okay. (Beat.)
@@ -1112,7 +1112,7 @@ CATHERINE. Oh ...
 HAL I want to spend the day with you if possible. ,I'd like to
 spend as much time with you as I can unless of course I’m coming
 on way too strong right now and scaring you in which case I’ll
-begin backpedaling immediately . . . (She laughs. Her relief is evident; so is his. They kiss.}
+begin backpedaling immediately . . . (She laughs. Her relief is evident; so is his. They kiss.)
 HAL How embarrassing is it if I say last night was wonderful?
 CATHERINE. It's only embarrassing if don't agree.
 HAL. Uh, so ...
@@ -1129,7 +1129,7 @@ CATHERINE. Bottom drawer of the desk in my dad's office.
 HAL. What's in there?
 CATHERINE. There's one way to find out, Professor.
 HAL. Now? (Catherine shrugs. Hal laughs, unsure if this is a joke or
-not.} Okay. (He kisses her quickly then goes inside. Catherine smiles
+not.) Okay. (He kisses her quickly then goes inside. Catherine smiles
 to herself. She is happy, on the edge of being giddy. Claire enters, hungover. She sits down, squinting.)
 CATHERINE. Good morning.
 35
@@ -1298,7 +1298,7 @@ CLAJRE. It would be entirely up to you. You wouldn't LIVE anywhere, you can -
 CATHERINE. I hate you.
 CLAIRE. Don't yell, please, calm down.
 CATHERINE. I HATE YOU. I - (Hal enters, holding a notebook. Claire and Catherine stop suddenly. Beat.)
-CLAIRE. What are you [doing here?} ... (She looks at Catherine.
+CLAIRE. What are you [doing here?) ... (She looks at Catherine.
 Hal is nearly speechless. He stares at Catherine.)
 HAL. How long have you known about this?
 CATHERINE. A while.
@@ -1374,7 +1374,7 @@ too much.
 CATHERINE. What do you want?
 ROBERT. What do you have a taste for?
 CATHERINE. Nothing.
-RO BERT. Nothing at all?
+ROBERT. Nothing at all?
 CATHERINE. I don't care. I thought pasta would be easy.
 ROBERT. Pasta, oh God don't even say the word "pasta." It
 42
@@ -1414,7 +1414,7 @@ classes in your department.
 ROBERT. It's a long drive.
 CATHERINE. Not that long, half an hour.
 ROBERT. Still, twice a day ...
-CATHERINE. Dad, I'd live there. {Beat.)
+CATHERINE. Dad, I'd live there. (Beat.)
 ROBERT. You'd actually want to live in Evanston?
 43
 CATHERINE. Yes. I'll still be dose. I can come home whenever
@@ -1456,7 +1456,7 @@ ROBERT. For Chrissake, Catherine, you should have talked to me.
 CATHERINE. Dad. Listen. If you ever ... if for any reason it ever
 turned out that you needed me here full time again -
 44
-ROBERT. I WON'T. That's not [what Tm talking about.}-
+ROBERT. I WON'T. That's not what Tm talking about.
 CATHERINE. I can always take a semester off, or -
 ROBERT. No. Stop it. I just the end of the MONTH? Why
 didn't you say something before?
@@ -1486,7 +1486,7 @@ ROBERT. Mr. Dobbs.
 HAL. Hi. I hope it's not a bad time.
 ROBERT. Yes it is, actually, you couldn't have picked worse.
 HAL. Oh, I, uh
-RO BERT. You interrupted an argument.
+ROBERT. You interrupted an argument.
 HAL. I'm sorry. I can come back.
 ROBERT. It's all right. We needed a break
 HAL. Are you sure?
@@ -1495,9 +1495,9 @@ what to eat. What's your suggestion? (A beat while Hal is on the spot.)
 HAL. Uh, there's a good pasta place nor too far from here.
 ROBERT. NO!
 45
-CATHERINE. {With Robert.) That is a BRILLIANT idea.
+CATHERINE. (With Robert.) That is a BRILLIANT idea.
 ROBERT. Oh dear Jesus God no.
-CATHERINE. {With Robert.) What's it called? Give me the
+CATHERINE. (With Robert.) What's it called? Give me the
 address.
 ROBERT. No! Sorry. Wrong answer but thank you for trying.
 (Hal stands there, looking at both of them.)
@@ -1585,7 +1585,7 @@ Sunday cooking up big vats of spaghetti to last you through the week.
 ROBERT. And I'll drive up, strut around Evanston, embarrass
 you in from of your classmates.
 CATHERINE. Good. So we'll be in touch.
-RO BERT. Sure. And if you get stuck with a problem, give me a call.
+ROBERT. Sure. And if you get stuck with a problem, give me a call.
 CATHERINE. Okay. Same to you.
 ROBERT. Fine. Make sure to get me your number. (To Hal) I'm
 actually looking forward to getting some work done.
@@ -1770,7 +1770,7 @@ remotely like this!
 HAL. Look, Catherine
 CATHERINE. We'll go through the proof together. We'll sit
 down - if Claire will please let me have my book back -
-CLAIRE. (Giving her the book.} All right, talk him through it.
+CLAIRE. (Giving her the book.) All right, talk him through it.
 HAL. That might take days and it still wouldn't show that she
 wrote it.
 CATHERINE. Why not?
@@ -1871,9 +1871,9 @@ Scene 3
 The next day. The porch is empty. Knocking, off No one
 appears. After a moment Hal comes around the side of the
 porch and knocks on the back door.
-HAL Catherine? (Claire enters.}
+HAL Catherine? (Claire enters.)
 I thought you were leaving.
-CLAIRE. I had to delay my flight. (Beat.}
+CLAIRE. I had to delay my flight. (Beat.)
 HAL. Is Catherine here?
 CLAIRE. I don't think this is a good time, Hal.
 HAL. Could I see her?
@@ -1926,11 +1926,11 @@ CLAIRE. Maybe she'd like it? Are you out of your mind? You're
 the reason she's up there right now! You have no idea what she
 needs. You don't know her! She's my sister. Jesus, you fucking mathematicians: You don't think. You don't know what you're doing. You
 stagger around creating these catastrophes and it's people like me
-who end up flying in to clean them up. (Beat.}
+who end up flying in to clean them up. (Beat.)
 She needs to get out of Chicago, out of this house. I'll give you
 my number in New York. You can call her once she's settled there.
 That's it, that's the deal.
-HAL. Okay. (Beat. Hal doesn't move.}
+HAL. Okay. (Beat. Hal doesn't move.)
 CLAIRE. I don't mean to be rude but I have a lot to do.
 HAL. There's one more thing. You're not going to like it.
 CLAIRE. Sure, take the notebook.
@@ -1993,7 +1993,7 @@ CATHERINE. I've been calling. Didn't you hear the phone?
 ROBERT. It's a distraction.
 CATHERINE. I didn't know what was going on. I had to drive
 all the way down here.
-RO BERT. I can see that.
+ROBERT. I can see that.
 CATHERINE. I had to skip class. (She brings him a coat and he
 puts it on.) Why don't you answer the phone?
 ROBERT. Well I'm sorry, Catherine, but its question of pnont1es
@@ -2115,7 +2115,7 @@ taking you in.
 ROBERT. Not until we talk about the proof.
 CATHERINE. No.
 ROBERT. GODDA.\1NIT CATHERINE OPEN THE GODDAMN BOOK AND READ ME THE LINES. (Beat. Catherine
-open the book. She reads slowly, without inflection.}
+open the book. She reads slowly, without inflection.)
 CATHERINE. "Let X equal the quantity of all quantities of X.
 Let X equal the cold. It is cold in December. The months of cold
 equal November through February. are four months of cold,
@@ -2150,9 +2150,9 @@ our place, four stories up. It's wonderful. "Manhattan's Best":
 Some magazine wrote it up. Who knows. But it is very good.
 CATHERINE. Sounds good.
 CLAIRE. You'll like it.
-CATHERINE. Good. (Beat.}
+CATHERINE. Good. (Beat.)
 CLAIRE. You look nice.
-CATHERINE. Thanks, so do you. {Beat.}
+CATHERINE. Thanks, so do you. (Beat.)
 CLAIRE. It's bright.
 CATHERINE. Yes.
 CLAIRE. It's one of the things I do miss. All the space, the light.
@@ -2184,7 +2184,7 @@ CLAIRE. You're all packed.
 CATHERINE. Yes.
 CLAIRE. If you missed anything it doesn't really matter. The
 movers will send us everything next month. (Catherine doesn't move.
-Beat.} I know this is hard.
+Beat.) I know this is hard.
 CATHERINE. It's fine.
 CLAIRE. This is the right decision.
 CATHERINE. I know.
@@ -2193,7 +2193,7 @@ transition for you. So does Mitch.
 CATHERINE. Good.
 CLAIRE. The actual departure is the hardest part. Once we get
 there we can relax. Enjoy ourselves.
-CATHERINE. I know. {Beat.)
+CATHERINE. I know. (Beat.)
 CLAIRE. You'll love New York.
 CATHERINE. I can't wait.
 CLAIRE. You'll love it. It’s the most exciting city.
@@ -2337,7 +2337,7 @@ your buddies, it's just evidence. It doesn't finish the job. It doesn't
 prove anything.
 HAL. Okay, what would?
 CATHERINE. NOTHING.
-You should have trusted me. {Beat.}
+You should have trusted me. (Beat.)
 HAL. I know. (Beat. Catherine gathers her things.)
 So Claire sold the house?
 CATHERINE. Yes.
